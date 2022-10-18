@@ -1,7 +1,7 @@
 {
   "name": "express-typescript-starter",
   "version": "1.0.0",
-  "description": "A basic Express + Typescript app starter for newbies in 2022.",
+  "description": "A basic Express + Typescript Starter",
   "main": "index.js",
   "scripts": {
     "build": "rimraf ./build && tsc",
