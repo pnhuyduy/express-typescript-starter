@@ -50,8 +50,8 @@
   },
   "lint-staged": {
     "*.ts": [
-      "prettier --write .",
-      "lint"
+      "npm run prettier-format",
+      "npm run lint --fix"
     ]
   },
   "dependencies": {
